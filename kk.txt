@@ -2,3 +2,6 @@
  how r u . 
  today is sunday .
  git remote -v 
+ how r u .
+ ls - lrt |grep ^d
+ today is sunday . 
