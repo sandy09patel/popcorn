@@ -1,3 +1,4 @@
  i am sandeep . 
- how r u . 
+ how r u .
+ ls - lrt |grep ^d
  today is sunday . 
